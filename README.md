@@ -18,7 +18,7 @@ No.  | JSFiddle name & link
 13  | [Flexbox - Vertical/Horizontal alignment of a box](https://jsfiddle.net/flosommerfeld/keqa3z2c/)
 14  | [Flexbox - Loading screen - gif](https://jsfiddle.net/flosommerfeld/za5bakn3/)
 15  | [Get column id on hover](https://jsfiddle.net/flosommerfeld/7tjjo7mz/)
-16  | Content Cell
+16  | [Flexbox - Loading screen - gif (stops if js goes nuts)](https://jsfiddle.net/flosommerfeld/q4833cfz/)
 17 | Content Cell
 18 | Content Cell
 19 | Content Cell
