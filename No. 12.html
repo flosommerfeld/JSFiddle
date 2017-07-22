@@ -1,0 +1,12 @@
+<body>
+  <div id="main">
+    <div id="items">
+      <!-- INSERT THE DIV'S VIA JS HERE -->
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+  <script>
+    $("#items").prepend("<div class='child-div'>some text</div>");
+    $("#items").prepend("<div class='child-div'>some text which should be above some text..</div>");
+  </script>
+</body>
