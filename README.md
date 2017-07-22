@@ -16,8 +16,8 @@ No.  | JSFiddle name & link
 11  | [Adding an object to an nested JSON object](https://jsfiddle.net/flosommerfeld/3zgwyaed/)
 12  | [jQuery- prepend() function example](https://jsfiddle.net/flosommerfeld/ogn3fhwu/)
 13  | [Flexbox - Vertical/Horizontal alignment of a box](https://jsfiddle.net/flosommerfeld/keqa3z2c/)
-14  | [Loading screen - gif](https://jsfiddle.net/flosommerfeld/za5bakn3/)
-15  | Content Cell
+14  | [Flexbox - Loading screen - gif](https://jsfiddle.net/flosommerfeld/za5bakn3/)
+15  | [Get column id on hover](https://jsfiddle.net/flosommerfeld/7tjjo7mz/)
 16  | Content Cell
 17 | Content Cell
 18 | Content Cell
