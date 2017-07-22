@@ -1,7 +1,7 @@
 # JSFiddle
 These are the sources of my fiddles from https://jsfiddle.net/user/flosommerfeld/fiddles/
 
-No.  | JSFiddle link
+No.  | JSFiddle name & link
 ------------- | -------------
 1  | Content Cell
 2  | Content Cell
