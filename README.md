@@ -21,4 +21,4 @@ No.  | JSFiddle name & link
 16  | [Flexbox - Loading screen - gif (stops if js goes nuts)](https://jsfiddle.net/flosommerfeld/q4833cfz/)
 17 | [Flexbox - Loading screen - png & css (won't stop if js goes nuts)](https://jsfiddle.net/flosommerfeld/b9Lq2jjc/)
 18 | [JavaScript - setTimeout() function example](https://jsfiddle.net/flosommerfeld/41316k90/)
-19 | Content Cell
+19 | [JavaScript - setInterval() function example](https://jsfiddle.net/flosommerfeld/wqeewdqp/)
