@@ -7,7 +7,7 @@ No.  | JSFiddle name & link
 2  | [jQuery - scollTop() function example](https://jsfiddle.net/flosommerfeld/2w5eh6an/)
 3  | [Removing future months from a select tag](https://jsfiddle.net/flosommerfeld/kxvfvyr6/)
 4  | [File input doesn't show gallery problem](https://jsfiddle.net/flosommerfeld/jaft5031/)
-5  | Content Cell
+5  | [jQuery - Print plugin demo](https://jsfiddle.net/flosommerfeld/L7o5fp4t/)
 6  | Content Cell
 7  | Content Cell
 8  | Content Cell
