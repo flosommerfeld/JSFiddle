@@ -6,7 +6,7 @@ No.  | JSFiddle name & link
 1  | [Bulma.io - Tab switcher in js only](https://jsfiddle.net/flosommerfeld/g8c3svp4/)
 2  | [jQuery - scollTop() function example](https://jsfiddle.net/flosommerfeld/2w5eh6an/)
 3  | [Removing future months from a select tag](https://jsfiddle.net/flosommerfeld/kxvfvyr6/)
-4  | Content Cell
+4  | [File input doesn't show gallery problem](https://jsfiddle.net/flosommerfeld/jaft5031/)
 5  | Content Cell
 6  | Content Cell
 7  | Content Cell
