@@ -4,7 +4,7 @@ These are the sources of my fiddles from https://jsfiddle.net/user/flosommerfeld
 No.  | JSFiddle name & link
 ------------- | -------------
 1  | [Bulma.io - Tab switcher](https://jsfiddle.net/flosommerfeld/g8c3svp4/)
-2  | Content Cell
+2  | [jQuery - scollTop() example](https://jsfiddle.net/flosommerfeld/2w5eh6an/)
 3  | Content Cell
 4  | Content Cell
 5  | Content Cell
