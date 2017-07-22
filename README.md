@@ -11,7 +11,7 @@ No.  | JSFiddle name & link
 6  | [Window.localStorage - Example](https://jsfiddle.net/flosommerfeld/frj075x5/)
 7  | [Materializecss - Slider example](https://jsfiddle.net/flosommerfeld/gze9f688/)
 8  | [Removing "www." from a hostname](https://jsfiddle.net/flosommerfeld/h83yckst/1/)
-9  | Content Cell
+9  | [Checking a specific value of an element for auth.](https://jsfiddle.net/flosommerfeld/gbb8q63h/)
 10  | Content Cell
 11  | Content Cell
 12  | Content Cell
