@@ -8,8 +8,8 @@ No.  | JSFiddle name & link
 3  | [Removing future months from a select tag](https://jsfiddle.net/flosommerfeld/kxvfvyr6/)
 4  | [File input doesn't show gallery problem](https://jsfiddle.net/flosommerfeld/jaft5031/)
 5  | [jQuery - Print plugin demo](https://jsfiddle.net/flosommerfeld/L7o5fp4t/)
-6  | Content Cell
-7  | Content Cell
+6  | [localStorage example](https://jsfiddle.net/flosommerfeld/frj075x5/)
+7  | [Materializecss - Slider example](https://jsfiddle.net/flosommerfeld/gze9f688/)
 8  | Content Cell
 9  | Content Cell
 10  | Content Cell
