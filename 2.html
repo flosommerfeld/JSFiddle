@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+  <body>
+
+    <h1>The size of the block will change if you scroll down!</h1>
+    <div id="block" style="background-color:blue; display: inline-block; width: 200px; height: 200px;"></div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+      $(function() {
+        $(window).scroll(function() {
+          var scroll = $(window).scrollTop();
+          console.log(scroll);
+          if (scroll >= 100) {
+            $("#block").height(1000);
+          } else if (scroll < 100) {
+            $("#block").height(200);
+          }
+        });
+      });
+
+    </script>
+  </body>
+
+</html>
