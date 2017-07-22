@@ -15,8 +15,8 @@ No.  | JSFiddle name & link
 10  | [Checking the index of a string iside a url](https://jsfiddle.net/flosommerfeld/22zdpmch/)
 11  | [Adding an object to an nested JSON object](https://jsfiddle.net/flosommerfeld/3zgwyaed/)
 12  | [jQuery- prepend() function example](https://jsfiddle.net/flosommerfeld/ogn3fhwu/)
-13  | [Flexbox - Vertical/Horizontal alignemnt of a box](https://jsfiddle.net/flosommerfeld/keqa3z2c/)
-14  | Content Cell
+13  | [Flexbox - Vertical/Horizontal alignment of a box](https://jsfiddle.net/flosommerfeld/keqa3z2c/)
+14  | [Loading screen - gif](https://jsfiddle.net/flosommerfeld/za5bakn3/)
 15  | Content Cell
 16  | Content Cell
 17 | Content Cell
