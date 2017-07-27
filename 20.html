@@ -1,0 +1,25 @@
+<body>
+  <div id="target-div">
+
+  </div>
+  
+  <script>
+    function escapeHTML(str) {
+      return str.replace(/[&"'<>]/g, (m) => escapeHTML.replacements[m]);
+    }
+    escapeHTML.replacements = {
+      "&": "&amp;",
+      '"': "&quot;",
+      "'": "&#39;",
+      "<": "&lt;",
+      ">": "&gt;"
+    };
+
+    var href = "http://www.google.com/";
+    var text = "Google";
+
+    document.getElementById("target-div").innerHTML = '<div>\
+        <a href="' + escapeHTML(href) + '" target="_top">' + escapeHTML(text) + '</a>\
+    </div>'
+  </script>
+</body>
