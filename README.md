@@ -22,3 +22,6 @@ No.  | JSFiddle name & link
 17 | [Flexbox - Loading screen - png & css (won't stop if js goes nuts)](https://jsfiddle.net/flosommerfeld/b9Lq2jjc/)
 18 | [JavaScript - setTimeout() function example](https://jsfiddle.net/flosommerfeld/41316k90/)
 19 | [JavaScript - setInterval() function example](https://jsfiddle.net/flosommerfeld/wqeewdqp/)
+20 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
+
+
