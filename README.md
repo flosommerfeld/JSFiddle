@@ -30,7 +30,7 @@ No.  | JSFiddle name & link
 
 
 
-Solarized dark             |  Solarized Ocean
+Solarized dark            
 ------------- | -------------
-![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/9fazr9N.png)
+![](http://i.imgur.com/9fazr9N.png) 
 
