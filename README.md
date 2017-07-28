@@ -24,7 +24,7 @@ No.  | JSFiddle name & link
 19 | [JavaScript - setInterval() function example](https://jsfiddle.net/flosommerfeld/wqeewdqp/)
 20 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
 21 | [2 backgrounds on one page](https://jsfiddle.net/flosommerfeld/f3ysucc7/)
-22 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
+22 | [Circled image](https://jsfiddle.net/flosommerfeld/p67j4484/)
 23 | [JavaScript - setInterval() function example](https://jsfiddle.net/flosommerfeld/wqeewdqp/)
 
 
