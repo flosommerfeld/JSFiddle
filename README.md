@@ -23,5 +23,9 @@ No.  | JSFiddle name & link
 18 | [JavaScript - setTimeout() function example](https://jsfiddle.net/flosommerfeld/41316k90/)
 19 | [JavaScript - setInterval() function example](https://jsfiddle.net/flosommerfeld/wqeewdqp/)
 20 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
+21 | [2 backgrounds on one page](https://jsfiddle.net/flosommerfeld/f3ysucc7/)
+22 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
+23 | [JavaScript - setInterval() function example](https://jsfiddle.net/flosommerfeld/wqeewdqp/)
+
 
 
