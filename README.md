@@ -30,6 +30,11 @@ No.  | JSFiddle name & link
 
 
 
-23 - Login page (in development)           |  
+23 - Login page (in development) Old          |  
 :-------------------------:|
 ![](http://i.imgur.com/9fazr9N.png)  
+
+23 - Login page (in development) New          |  
+:-------------------------:|
+![](http://i.imgur.com/9fazr9N.png)  
+
