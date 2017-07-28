@@ -30,6 +30,6 @@ No.  | JSFiddle name & link
 
 
 
-Solarized dark             |  
+23 - Login page (in development)           |  
 :-------------------------:|
 ![](http://i.imgur.com/9fazr9N.png)  
