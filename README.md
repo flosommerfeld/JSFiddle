@@ -31,6 +31,6 @@ No.  | JSFiddle name & link
 
 
 Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+------------- | -------------
 ![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/9fazr9N.png)
 
