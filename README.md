@@ -28,7 +28,9 @@ No.  | JSFiddle name & link
 23 | [Login page (in development)](https://jsfiddle.net/flosommerfeld/eaL2w1uh/)
 
 
-![23](http://i.imgur.com/9fazr9N.png)
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/9fazr9N.png)
 
