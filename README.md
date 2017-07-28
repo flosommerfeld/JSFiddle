@@ -32,6 +32,6 @@ No.  | JSFiddle name & link
 
 23 - Login page (Old)          |  23 - Login page (New) 
 :-------------------------:|:-------------------------:
-![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/9fazr9N.png)  
+![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/Pzolzdy.png)  
 
 
