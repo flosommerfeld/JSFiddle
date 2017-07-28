@@ -25,12 +25,9 @@ No.  | JSFiddle name & link
 20 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
 21 | [2 backgrounds on one page](https://jsfiddle.net/flosommerfeld/f3ysucc7/)
 22 | [Circled image](https://jsfiddle.net/flosommerfeld/p67j4484/)
-23 | [Login page (in development)](https://jsfiddle.net/flosommerfeld/eaL2w1uh/)
+23 | [Login page (in development)](https://jsfiddle.net/flosommerfeld/eaL2w1uh/![](http://i.imgur.com/9fazr9N.png) )
 
 
 
 
-Solarized dark            
-------------- | -------------
-![](http://i.imgur.com/9fazr9N.png) 
 
