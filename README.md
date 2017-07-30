@@ -35,7 +35,7 @@ No.  | JSFiddle name & link
 
 Test |
 ------------ | 
-Content in the first column | Content in the second column
+Content in the first column | 
 ![](http://i.imgur.com/9fazr9N.png)
        
 
