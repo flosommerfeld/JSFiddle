@@ -30,6 +30,13 @@ No.  | JSFiddle name & link
 25 | [Input form with icon 1](https://jsfiddle.net/flosommerfeld/dq1jjjye/)
 26 | [Input form with icon 2](https://jsfiddle.net/flosommerfeld/efeoy2hj/)
 27 | [Labels](https://jsfiddle.net/flosommerfeld/yz1685ra/)
+
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 ![](http://i.imgur.com/9fazr9N.png)
        
 
