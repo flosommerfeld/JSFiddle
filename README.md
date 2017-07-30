@@ -33,7 +33,7 @@ No.  | JSFiddle name & link
 
 
 
-First Header |
+Test |
 ------------ | 
 Content from cell 1 
 Content in the first column | Content in the second column
