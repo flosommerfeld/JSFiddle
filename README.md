@@ -25,7 +25,9 @@ No.  | JSFiddle name & link
 20 | [innerHTML with HTML Escaping](https://jsfiddle.net/flosommerfeld/r6Lczmf7/)
 21 | [2 backgrounds on one page](https://jsfiddle.net/flosommerfeld/f3ysucc7/)
 22 | [Circled image](https://jsfiddle.net/flosommerfeld/p67j4484/)
-23 | [Login page (in development)](https://jsfiddle.net/flosommerfeld/eaL2w1uh/)
+23 | [Login page](https://flosommerfeld.github.io/templates/login)
+24 | [Register page](https://flosommerfeld.github.io/templates/register)
+25 | [Input form with icon 1](https://jsfiddle.net/flosommerfeld/dq1jjjye/)
 
 
 
