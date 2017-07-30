@@ -28,7 +28,7 @@ No.  | JSFiddle name & link
 23 | [Login page](https://flosommerfeld.github.io/templates/login)
 24 | [Register page](https://flosommerfeld.github.io/templates/register)
 25 | [Input form with icon 1](https://jsfiddle.net/flosommerfeld/dq1jjjye/)
-
+25 | [Input form with icon 2](https://jsfiddle.net/flosommerfeld/efeoy2hj/)
 
 
 
