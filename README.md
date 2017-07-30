@@ -35,7 +35,6 @@ No.  | JSFiddle name & link
 
 Test |
 ------------ | 
-Content from cell 1 
 Content in the first column | Content in the second column
 ![](http://i.imgur.com/9fazr9N.png)
        
