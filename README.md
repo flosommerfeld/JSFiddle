@@ -33,11 +33,11 @@ No.  | JSFiddle name & link
 
 
 
-Test |
+JSFiddles |
 ------------ | 
-Image 1 | 
+v No. 1 - Test blabla | 
 ![](http://i.imgur.com/9fazr9N.png)
-Image 2 | 
+v No. 2 - Test blabla | 
 ![](http://i.imgur.com/9fazr9N.png)
        
 
