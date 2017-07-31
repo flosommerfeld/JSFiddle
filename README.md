@@ -39,6 +39,12 @@ JSFiddles |
 ![](http://i.imgur.com/9fazr9N.png)
 ↓ No. 2 - Test blabla | 
 ![](http://i.imgur.com/9fazr9N.png)
+
+
+JSFiddles |
+------------ | 
+No. 1 - Test blabla | No. 2 - Test blabla 
+![](http://i.imgur.com/9fazr9N.png) | ![](http://i.imgur.com/9fazr9N.png)
        
 
 
