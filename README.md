@@ -33,14 +33,8 @@ No.  | JSFiddle name & link
 
 
 
-JSFiddles |
------------- | 
-↓ No. 1 - Test blabla | 
-![](http://i.imgur.com/9fazr9N.png)
-↓ No. 2 - Test blabla | 
-![](http://i.imgur.com/9fazr9N.png)
 
-
+Just a test...:
 
 23 - Login page (Old)          |  23 - Login page (New) 
 :-------------------------:|:-------------------------:
