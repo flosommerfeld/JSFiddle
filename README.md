@@ -35,9 +35,9 @@ No.  | JSFiddle name & link
 
 JSFiddles |
 ------------ | 
-v No. 1 - Test blabla | 
+↓ No. 1 - Test blabla | 
 ![](http://i.imgur.com/9fazr9N.png)
-v No. 2 - Test blabla | 
+↓ No. 2 - Test blabla | 
 ![](http://i.imgur.com/9fazr9N.png)
        
 
