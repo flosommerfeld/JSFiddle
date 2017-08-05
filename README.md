@@ -31,7 +31,8 @@ No.  | JSFiddle name & link
 26 | [Input form with icon 2](https://jsfiddle.net/flosommerfeld/efeoy2hj/)
 27 | [Labels](https://jsfiddle.net/flosommerfeld/yz1685ra/)
 28 | [GPS Permission - Responsive template](https://jsfiddle.net/flosommerfeld/yypz6L2x/)
-
+29 | [Typewriter effect](https://jsfiddle.net/flosommerfeld/oxove0x3/)
+30 | [Button template](https://jsfiddle.net/flosommerfeld/74c4k3L8/)
 
 
 Just a test...:
