@@ -2,8 +2,10 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="../../favicon.png" type="image/png" sizes="256x256">
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <title>Source Code on my GitHub profile</title>
   <style>
     body {
       background-color: #FCFCFC;
@@ -20,11 +22,14 @@
       z-index: -1000;
       justify-content: center;
       display: flex;
+      display: -webkit-flex;
     }
 
     #bottom {
+      min-height: 485px;
       justify-content: center;
       display: flex;
+      display: -webkit-flex;
       align-items: center;
       height: 100%;
       flex-direction: column;
@@ -40,6 +45,7 @@
     }
 
     #card {
+      min-height: 327.317px;
       height: auto;
       width: 500px;
       background-color: white;
@@ -47,6 +53,7 @@
       justify-content: flex-start;
       align-items: center;
       display: flex;
+      display: -webkit-flex;
       flex-direction: column;
       box-shadow: 0px 0px 20px 0 rgba(0, 0, 0, 0.05);
     }
@@ -77,6 +84,7 @@
       padding-left: 42px;
       font-size: 1em;
       color: #838383;
+      background-color: white;
     }
 
     input[type=button] {
@@ -123,6 +131,12 @@
       }
     }
 
+    @media (max-height: 768px) {
+      #top{
+        height:230px;
+      }
+    }
+
     a,
     a:active,
     a:focus {
@@ -150,7 +164,7 @@
         <input type="password" class="form-control" placeholder="Password" />
       </div>
       <input type="button" class="button" value="Let's Go">
-      <div id="suggestion">Don't have an account? <a href="#">Sign Up</a></div>
+      <div id="suggestion">Don't have an account? <a href="https://flosommerfeld.github.io/templates/register">Sign Up</a></div>
     </div>
   </div>
 
