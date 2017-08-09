@@ -37,11 +37,11 @@ No.  | JSFiddle name & link
 
 Just a test...:
 
-23 - Login page (Old)          |  23 - Login page (New) 
+1          |  2
 :-------------------------:|:-------------------------:
 ![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/Pzolzdy.png)  
 
-23 - Login page (Old)          |  28 - GPS Permission 
+3        |  4
 :-------------------------:|:-------------------------:
 ![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/DRj3GQC.png)  
 
