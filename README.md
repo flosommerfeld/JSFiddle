@@ -39,4 +39,4 @@ Some screenshots:
 
 28 - GPS Permission          |  23 - Login page
 :-------------------------:|:-------------------------:
-![](http://i.imgur.com/DRj3GQC.png))  |  ![](http://i.imgur.com/Pzolzdy.png)  
+![](http://i.imgur.com/DRj3GQC.png)  |  ![](http://i.imgur.com/Pzolzdy.png)  
