@@ -35,7 +35,7 @@ No.  | JSFiddle name & link
 30 | [Button template](https://jsfiddle.net/flosommerfeld/74c4k3L8/)
 
 
-Just a test...:
+Some screenshots:
 
 1          |  2
 :-------------------------:|:-------------------------:
