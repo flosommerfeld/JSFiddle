@@ -39,9 +39,4 @@ Some screenshots:
 
 1          |  2
 :-------------------------:|:-------------------------:
-![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/Pzolzdy.png)  
-
-3        |  4
-:-------------------------:|:-------------------------:
-![](http://i.imgur.com/9fazr9N.png)  |  ![](http://i.imgur.com/DRj3GQC.png)  
-
+![](http://i.imgur.com/DRj3GQC.png))  |  ![](http://i.imgur.com/Pzolzdy.png)  
