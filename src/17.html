@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    body,
+    html {
+      height: 100%;
+      margin: 0 auto;
+    }
+
+    .flex-container {
+      display: flex;
+      justify-content: center;
+      background-color: #f9f9f9;
+      align-items: center;
+      height: inherit;
+    }
+
+    #loader {
+      -webkit-animation: spin 1.2s linear infinite;
+      -moz-animation: spin 1.2s linear infinite;
+      animation: spin 1.2s linear infinite;
+    }
+
+    @-moz-keyframes spin {
+      100% {
+        -moz-transform: rotate(360deg);
+      }
+    }
+
+    @-webkit-keyframes spin {
+      100% {
+        -webkit-transform: rotate(360deg);
+      }
+    }
+
+    @keyframes spin {
+      100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="flex-container">
+    <img id="loader" src="http://use1ess.bplaced.net/stack/loader.png" alt="Loading..." />
+  </div>
+
+</body>
+
+</html>
