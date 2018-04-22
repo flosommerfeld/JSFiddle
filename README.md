@@ -4,8 +4,8 @@ These are the sources of my fiddles from https://jsfiddle.net/user/flosommerfeld
 ![](https://i.imgur.com/BqteDJN.png)
 
 
-### Table of Contents
 - - - -
+### Table of Contents
 No.  | JSFiddle name & link
 ------------- | -------------
 1  | [Bulma.io - Tab switcher in js only](https://jsfiddle.net/flosommerfeld/g8c3svp4/)
