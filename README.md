@@ -39,7 +39,7 @@ No.  | JSFiddle name & link
 29 | [Typewriter effect](https://jsfiddle.net/flosommerfeld/oxove0x3/)
 30 | [Button template](https://jsfiddle.net/flosommerfeld/74c4k3L8/)
 - - - -
-**Some screenshots:**
+###Some screenshots:
 
 28 - GPS Permission          |  23 - Login page
 :-------------------------:|:-------------------------:
